@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "module": "es6",
+    "target": "es6",
+    "sourceMap": true,
+    "allowJs": true,
+    "moduleResolution": "node",
+    "suppressImplicitAnyIndexErrors": true,
+    "jsx": "react",
+    "allowSyntheticDefaultImports": true
+  }
+}
